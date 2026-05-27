@@ -43,7 +43,6 @@ vpp-postcuring-oxygen-control/
 
 ├── README.md
 ├── LICENSE
-├── CITATION.cff
 ├── requirements.txt
 │
 ├── arduino/
@@ -53,11 +52,9 @@ vpp-postcuring-oxygen-control/
 │   └── arduino_terminal_fan.py
 │
 ├── docs/
-│   ├── guide_to_oxygen_control.pdf
-│   └── fritzing_diagram_oxygen_control.pdf
-│
-└── data_example/
-    └── example_environmental_log.csv
+    ├── guide_to_oxygen_control.pdf
+    └── fritzing_diagram_oxygen_control.pdf
+
 ```
 
 ---
