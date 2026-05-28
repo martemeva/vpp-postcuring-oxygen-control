@@ -4,6 +4,7 @@
 Python and Arduino-based environmental monitoring and oxygen-control system for atmosphere-controlled UV post-curing of vat-photopolymerized components.
 
 Developed at the Technical University of Denmark (DTU) for research purposes. The oxygen-control system can also be applied to any commercial additive manufacturing system to control the environment while printing.
+![Modified post-curing chamber and time evolution of the sensor data. Shaded regions indicate the establishment of the desired atmosphere and the subsequent 60 min nitrogen-assisted post-curing period](Sensor_tolerance_9.png)
 
 Associated publication:
 
