@@ -8,9 +8,9 @@ Developed at the Technical University of Denmark (DTU) for research purposes. Th
 
 Associated publication:
 
-> Artemeva, M. et al.
-> *Atmosphere-controlled post-curing enables dimensional stabilization and extended life of vat-photopolymerized soft tooling for injection molding*
-> 
+> Artemeva, Marina and Navas, Javier L. and Rahemipoor, Sahand and Basso, Alberto and Nielsen, Jakob S. and Lakkaraju, Anish R. and Ranjbar, Navid and Pedersen, David Bue and Calaon, Matteo and Daugaard, Anders Egede and Zhang, Yang and Nadimpalli, Venkata Karthik,
+> *Atmosphere-controlled post-curing extends the service life of vat-photopolymerized soft tooling for injection molding.*
+> Available at SSRN: https://ssrn.com/abstract=6913079 or http://dx.doi.org/10.2139/ssrn.6913079
 
 ---
 
